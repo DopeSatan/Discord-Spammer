@@ -51,11 +51,3 @@ When the program has started visit the hostname on the port in `config.json`
 You will see a neat GUI with options on the left.
 
 You will be able to choose from any of these options
-
-## Contact
-
-Telegram Chat: https://t.me/DiscordTools
-
-## Donate
-
-Bitcoin: 1JKtC7rQNo23iA9p35XaovetKvs5RDF1S
