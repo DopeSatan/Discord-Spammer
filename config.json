@@ -1,0 +1,7 @@
+{
+    "port": 1337,
+    "time": 60,
+    "timeout": 50,
+    "max_proxies": 5000,
+    "console_output": true
+}
