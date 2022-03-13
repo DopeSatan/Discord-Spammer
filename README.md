@@ -31,4 +31,6 @@ Don't worry about having to add and replace proxies. One of the advanced parts o
 ## 📞 Contacts
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
 [Check Out My YouTube Channel](https://www.youtube.com/DopeSatan) <br>
-JavaScript Credits: [Lemons1337](https://github.com/lemons1337)
+JavaScript Credits : [Lemons1337](https://github.com/lemons1337) <br>
+Support Lemons1337 with Bitcoins:<br>
+**1JKtC7rQNo23iA9p35XaovetKvs5RDF1S**
