@@ -26,7 +26,7 @@ Mjc2MDY1OTc4MzM1NjI1MjE2.DNTGNw.cbNgca_1_9mJ9dal7bdnNkLcPxE
 ```
 
 ## 🌐 Proxies
-Don't worry about having to add and replace proxies. One of the advanced parts of this Discord Spammer is the ability to scrape it's own proxies. It will automatically check for newer proxies as fast as it can and update it's proxy list.
+Don't worry about having to add and replace proxies. One of the advanced parts of this Discord Spammer is the ability to scrape it's own proxies. It will automatically check for newer proxies as fast as it can and update itself.
 
 ## 📞 Contacts
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
