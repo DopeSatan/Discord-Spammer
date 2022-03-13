@@ -3,8 +3,7 @@
 [![](https://img.shields.io/github/languages/count/DopeSatan/Discord-Spammer?style=plastic)](https://github.com/DopeSatan/Discord-Spammer/search?l=shell)‎ ‎
 [![](https://img.shields.io/github/license/DopeSatan/Discord-Spammer?logoColor=red&style=plastic)](https://github.com/DopeSatan/Discord-Spammer/blob/main/LICENSE)‎ ‎
 [![](https://img.shields.io/github/languages/top/DopeSatan/Discord-Spammer?color=light%20green&style=plastic)](https://github.com/DopeSatan/Discord-Spammer)‎ ‎ <br><br>
-Advanced Discord Spammer with multiple options and auto scraping proxies. You will need some prerequisites like node.js intalled in your system to run this spammer. You can download node.js from [this website](https://nodejs.org/en/download) and then run `npm install`<br>
-After installation of node.js follow the following steps to spam a Discord server:<br>
+Advanced Discord Spammer with multiple options and auto scraping proxies. You will need some prerequisites like node.js intalled in your system to run this spammer. You can download node.js from [this website](https://nodejs.org/en/download) and then run **npm install**. After installation of node.js follow the following steps to spam a Discord server:<br>
 
 * Start the Discord spammer by typing in the command `node index.js` in the terminal
 * When the program has started visit the hostname on the port in **config.json**
