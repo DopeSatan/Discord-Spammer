@@ -30,5 +30,4 @@ Don't worry about having to add and replace proxies. One of the advanced parts o
 
 ## 📞 Contacts
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
-[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan) <br>
-[MrSp4rX's YouTube Channel](https://www.youtube.com/c/D4rkH4cker5)
+[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
