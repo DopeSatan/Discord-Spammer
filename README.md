@@ -11,9 +11,9 @@ Advanced Discord Spammer with multiple options and auto scraping proxies. You wi
 * You will be able to choose from any of these available options
 
 ## 📸 Screenshots
-<img src="https://raw.githubusercontent.com/Lemons1337/Discord-Spammer/master/Images/console.png" alt="console" width="600"><br><br>
-<img src="https://raw.githubusercontent.com/Lemons1337/Discord-Spammer/master/Images/panel.png" alt="panel1" width="600"><br><br>
-<img src="https://raw.githubusercontent.com/Lemons1337/Discord-Spammer/master/Images/panel2.png" alt="panel2" width="600">
+<img src="https://raw.githubusercontent.com/DopeSatan/Discord-Spammer/main/Images/console.png" alt="console" width="600"><br><br>
+<img src="https://raw.githubusercontent.com/DopeSatan/Discord-Spammer/master/Images/panel.png" alt="panel1" width="600"><br><br>
+<img src="https://raw.githubusercontent.com/DopeSatan/Discord-Spammer/master/Images/panel2.png" alt="panel2" width="600">
 
 ## 🗒 Tokens
 Put your tokens inside of tokens.txt in this format. The following codes are dummy and<br>
