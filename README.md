@@ -1,26 +1,24 @@
-## Discord Spammer
+## 📲 Discord Spammer
+[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
+[![](https://img.shields.io/github/languages/count/DopeSatan/Discord-Spammer?style=plastic)](https://github.com/DopeSatan/Discord-Spammer/search?l=shell)‎ ‎
+[![](https://img.shields.io/github/license/DopeSatan/Discord-Spammer?logoColor=red&style=plastic)](https://github.com/DopeSatan/Discord-Spammer/blob/main/LICENSE)‎ ‎
+[![](https://img.shields.io/github/languages/top/DopeSatan/Discord-Spammer?color=light%20green&style=plastic)](https://github.com/DopeSatan/Discord-Spammer)‎ ‎ <br><br>
+Advanced Discord Spammer with multiple options and auto scraping proxies. You will need some prerequisites like node.js intalled in your system to run this spammer. You can download node.js from [this website](https://nodejs.org/en/download) and then run `npm install`<br>
+After installation of node.js follow the following steps to spam a Discord server:<br>
 
-Advanced Discord Spammer with multiple options and auto scraping proxies!
+* Start the Discord spammer by typing in the command `node index.js` in the terminal
+* When the program has started visit the hostname on the port in **config.json**
+* You will see a neat Graphical User Interface with options on the left
+* You will be able to choose from any of these available options
 
-## Images
+## 📸 Screenshots
+<img src="https://raw.githubusercontent.com/Lemons1337/Discord-Spammer/master/Images/console.png" alt="console" width="600"><br><br>
+<img src="https://raw.githubusercontent.com/Lemons1337/Discord-Spammer/master/Images/panel.png" alt="panel1" width="600"><br><br>
+<img src="https://raw.githubusercontent.com/Lemons1337/Discord-Spammer/master/Images/panel2.png" alt="panel2" width="600">
 
-![console](https://raw.githubusercontent.com/Lemons1337/Discord-Spammer/master/Images/console.png)
-![panel](https://raw.githubusercontent.com/Lemons1337/Discord-Spammer/master/Images/panel.png)
-![panel2](https://raw.githubusercontent.com/Lemons1337/Discord-Spammer/master/Images/panel2.png)
-
-## Installation
-
-Install NodeJS: https://nodejs.org/en/download/
-
-Run this command in console
-
-```
-npm install
-```
-
-## Tokens
-
-Put your tokens inside of tokens.txt in this format
+## 🗒 Tokens
+Put your tokens inside of tokens.txt in this format. The following codes are dummy and<br>
+are only for demonstration purpose. You can find your tokens by following [this guide](https://pcstrike.com/how-to-get-discord-token/).
 
 ```
 MzI1MTU3ODA5MjExNTcyMjI1.DOQYbA.vnBfE7DtN2zxZW6Ohw_POto6npA
@@ -28,26 +26,10 @@ MTYzODM3OTQ3OTY2MTI4MTI4.DOQApA.q-RZqUVpg2drGqpSjatcZf0EJZY
 Mjc2MDY1OTc4MzM1NjI1MjE2.DNTGNw.cbNgca_1_9mJ9dal7bdnNkLcPxE
 ```
 
-## Proxies
+## 🌐 Proxies
+Don't worry about having to add and replace proxies. One of the advanced parts of this Discord Spammer is the ability to scrape it's own proxies. It will automatically check for newer proxies as fast as it can and update it's proxy list.
 
-Don't worry about having to add and replace proxies
-
-One of the advanced parts of this Discord Spammer is the ability to scrape it's own proxies
-
-It will also check proxies as fast as it can!
-
-## Starting
-
-Run this command
-
-```
-node index.js
-```
-
-## Usage
-
-When the program has started visit the hostname on the port in `config.json`
-
-You will see a neat GUI with options on the left.
-
-You will be able to choose from any of these options
+## 📞 Contacts
+For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
+[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan) <br>
+[MrSp4rX's YouTube Channel](https://www.youtube.com/c/D4rkH4cker5)
